@@ -1764,8 +1764,6 @@ Pada fungsi `main`, client akan:
 
 ![alt text](assets/soal_2/7.jpg)
 
-![alt text](assets/soal_2/8.jpg)
-
 ![alt text](assets/soal_2/9.jpg)
 
 ---
