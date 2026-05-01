@@ -594,7 +594,7 @@ void *send_msg(void *arg) {
     }
 }
 ```
- **4. Thread Pengirim Pesan**
+ **4. Thread Penerima Pesan**
 
 Fungsi ini juga berjalan pada thread terpisah dan bertugas untuk:
  - Menerima pesan dari server
