@@ -1769,6 +1769,7 @@ Pada fungsi `main`, client akan:
 ---
 
 ## Kendala
-Soal yang terlalu kompleks, Ngerjainnya full AI
+- Masih belum sepenuhnya memahami materi
+- Ngerjainnya full AI
 
 ---
